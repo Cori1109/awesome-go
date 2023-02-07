@@ -9,5 +9,5 @@ assignees: ''
 
 <!--
 before opening the issue we recommend that you read our contribution guide, there we talk about how you can contribute to awesome-go.
-https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md
+https://github.com/Cori1109/awesome-go/blob/main/CONTRIBUTING.md
 -->

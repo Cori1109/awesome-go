@@ -1,4 +1,4 @@
-> Please check if what you want to add to `awesome-go` list meets [quality standards](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md#quality-standards) before sending pull request. Thanks!
+> Please check if what you want to add to `awesome-go` list meets [quality standards](https://github.com/Cori1109/awesome-go/blob/main/CONTRIBUTING.md#quality-standards) before sending pull request. Thanks!
 
 **Please provide package links to:**
 
@@ -19,7 +19,7 @@ _Not every repository (project) will require every option, but most projects sho
 - [ ] The repo documentation has a coverage service link.
 - [ ] The repo documentation has a goreportcard link.
 - [ ] The repo has a version-numbered release and a go.mod file.
-- [ ] I have read the [Contribution Guidelines](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md#contribution-guidelines), [Maintainers Note](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md#maintainers) and [Quality Standards](https://github.com/avelino/awesome-go/blob/main/CONTRIBUTING.md#quality-standards).
+- [ ] I have read the [Contribution Guidelines](https://github.com/Cori1109/awesome-go/blob/main/CONTRIBUTING.md#contribution-guidelines), [Maintainers Note](https://github.com/Cori1109/awesome-go/blob/main/CONTRIBUTING.md#maintainers) and [Quality Standards](https://github.com/Cori1109/awesome-go/blob/main/CONTRIBUTING.md#quality-standards).
 - [ ] The repo has a continuous integration process that automatically runs tests that must pass before new pull requests are merged.
 - [ ] The authors of the project do not commit directly to the repo, but rather use pull requests that run the continuous-integration process.
 
