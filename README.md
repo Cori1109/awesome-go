@@ -1,12 +1,12 @@
 # Awesome Go
 
-<a href="https://awesome-go.com/"><img align="right" src="https://github.com/avelino/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
+<a href="https://awesome-go.com/"><img align="right" src="https://github.com/Cori1109/awesome-go/raw/main/tmpl/assets/logo.png" alt="awesome-go" title="awesome-go" /></a>
 
-[![Build Status](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/avelino/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain)
+[![Build Status](https://github.com/Cori1109/awesome-go/actions/workflows/tests.yaml/badge.svg?branch=main)](https://github.com/Cori1109/awesome-go/actions/workflows/tests.yaml?query=branch%3Amain)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://gophers.slack.com/messages/awesome)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/avelino/awesome-go/)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Cori1109/awesome-go/)
 
 We use the _[Golang Bridge](https://github.com/gobridge/about-us/blob/master/README.md)_ community slack for instant communication, follow the [form here to join](https://invite.slack.golangbridge.org/).
 
@@ -22,14 +22,12 @@ _Special thanks to_
 <tr>
 <td style="width:50%">
 <a href="https://bit.ly/awesome-go-doppler">
-<img src="https://avelino.run/sponsors/doppler-logo.png" width="200" alt="Doppler"><br/>
 <b>Quit struggling with scattered API keys and access controls.</b><br/>
 <sub>Keep your secrets in sync across environments, servers, and teams with Doppler.</sub>
 </a>
 </td>
 <td>
 <a href="https://bit.ly/awesome-go-xteam">
-<img src="https://avelino.run/sponsors/xteam-logo.png" width="200" alt="x-team"><br/>
 <b>Work from anywhere in the world with top tech companies like Riot Games, Coinbase, and Google.</b>
 </a>
 </td>
@@ -37,7 +35,6 @@ _Special thanks to_
 <tr>
 <td>
 <a href="https://bit.ly/awesome-go-workos">
-<img src="https://avelino.run/sponsors/workos-logo-white-bg.svg" width="200" alt="WorkOS"><br/>
 <b>Your app, enterprise-ready.</b><br/>
 <sub>Start selling to enterprise customers with just a few lines of code.</sub><br/>
 <sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
@@ -45,7 +42,6 @@ _Special thanks to_
 </td>
 <td>
 <a href="https://bit.ly/awesome-go-keygen">
-<img src="https://avelino.run/sponsors/keygen-logo.png" width="200" alt="keygen"><br/>
 <b>A dead-simple software licensing and distribution API built for developers</b><br/>
 <sub>Securely license and distribute Go applications with a single API.</sub><br>
 <sup>Add auto updates with only a few lines of code.</sup>
@@ -55,12 +51,10 @@ _Special thanks to_
 <tr>
 <td>
 <a href="https://bit.ly/awesome-go-digitalocean">
-<img src="https://avelino.run/sponsors/do_logo_horizontal_blue-210.png" width="200" alt="Digital Ocean">
 </a>
 </td>
 <td>
 <a href="https://bit.ly/awesome-go-ctoai">
-<img src="https://avelino.run/sponsors/cto-logo.png" width="200" alt="cto.ai"><br/>
 <b>workflow smarter, not harder</b><br/>
 <sub>Make the switch from one-size-fits-all CI/CD to PaaS</sub><br/>
 <sup>workflows & turn k8s into a powerful developer experience</sup><br/>
@@ -72,13 +66,13 @@ _Special thanks to_
 </table>
 </div>
 
-**Awesome Go has no monthly fee**_, but we have employees who **work hard** to keep it running, with money raised we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support)._
+**Awesome Go has no monthly fee**_, but we have employees who **work hard** to keep it running, with money raised we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](mailto:chris.jenkins.j1005@gmail.com?subject=awesome-go%3A%20project%20support)._
 
 > A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
-Please take a quick gander at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/Cori1109/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Cori1109/awesome-go/graphs/contributors); you rock!
 
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 

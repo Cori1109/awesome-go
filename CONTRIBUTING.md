@@ -1,5 +1,5 @@
 This resource was made by the Go community and wouldn't be possible without you! 
-We appreciate and recognize [all contributors](https://github.com/avelino/awesome-go/graphs/contributors).
+We appreciate and recognize [all contributors](https://github.com/Cori1109/awesome-go/graphs/contributors).
 
 # Contribution Guidelines
 
@@ -60,17 +60,17 @@ Open a pull request against the README.md document that adds the repository to t
 If you are creating a new category, move the projects that apply to the new category, ensuring
 that the resulting list has at least 3 projects in every category and that the categories are alphabetized.
 
-Fill out the template in your PR with the links asked for. If you accidentally remove the PR template from the submission, you can find it [here](https://github.com/avelino/awesome-go/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
+Fill out the template in your PR with the links asked for. If you accidentally remove the PR template from the submission, you can find it [here](https://github.com/Cori1109/awesome-go/blob/main/.github/PULL_REQUEST_TEMPLATE.md).
 
 
 ## Congrats, your project got accepted - what now?
 You are an awesome project now! Feel encouraged to tell others about it by adding one of these badges:  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/Cori1109/awesome-go)  
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/Cori1109/awesome-go)
 
 ```md
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)  
-[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/avelino/awesome-go)
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/Cori1109/awesome-go)  
+[![Mentioned in Awesome Go](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/Cori1109/awesome-go)
 ```
 ## Maintenance expectations for projects listed here
 
@@ -102,7 +102,7 @@ The link should be of the form @githubID.
 If the project is not hosted on Github, open an issue at the project in question's repository linking to the PR 
 and stating the following:
 
->This project is currently listed at awesome-go at https://github.com/avelino/awesome-go. 
+>This project is currently listed at awesome-go at https://github.com/Cori1109/awesome-go. 
 However, it appears that the project is not maintaining the quality standards required to continue to be listed at the awesome-go project.
 This project is schedule to be removed within 2 weeks of this posting. To continue to be listed at awesome-go, please respond at:
   -- link to above PR --

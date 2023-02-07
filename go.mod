@@ -1,4 +1,4 @@
-module github.com/avelino/awesome-go
+module github.com/Cori1109/awesome-go
 
 go 1.17
 
